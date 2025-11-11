@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm Hariom Tavar</h1>
-<h3 align="center">🚀 B.Tech CSE Student | Frontend & Full-Stack Learner | Creative Tech Explorer</h3>
+<h3 align="center">🚀 B.Tech CSE Student | Frontend & Full-Stack Developer | Creative Tech Explorer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -9,10 +9,14 @@
 ---
 
 ### 🧠 About Me  
-I’m a **Computer Science Engineering student from Madhya Pradesh, India**, passionate about designing interactive user interfaces and building reliable full-stack solutions.  
-Currently exploring modern web technologies and creative digital branding — combining **design thinking** with **technical innovation**.  
+I’m a **Computer Science student** with a deep passion for **web & app development, technology, and problem-solving**.  
+I specialize in crafting **innovative and scalable solutions**, leveraging my expertise in **Figma, Java, JavaScript, Tailwind CSS, Next.js, React, React Native, and MySQL**.  
 
-💡 Available for **internships and collaborative projects** — let’s connect and build the future together!
+Beyond coding, I thrive in **team collaborations**, brainstorming ideas, and turning concepts into reality.  
+My mission is to **build impactful solutions that drive change**, not just work a job.  
+I aim to be part of something **bigger than myself**, contributing to projects that truly make a difference.  
+
+Let’s connect and **build the future together! 🚀**
 
 ---
 
