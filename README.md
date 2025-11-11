@@ -25,7 +25,7 @@ Let’s connect and **build the future together! 🚀**
 JavaScript, React.js, Tailwind CSS, responsive UI design, and Figma prototyping.
 
 #### 🗄️ Back-End & Databases  
-Node.js / Next.js patterns and MySQL for reliable data-driven applications.
+java/Springboot Node.js / Next.js patterns and MySQL for reliable data-driven applications.
 
 #### 🧩 Algorithms & DSA  
 Strong foundation in data structures and algorithmic problem solving (**C++**, **Java**).
